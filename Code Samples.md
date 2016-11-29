@@ -22,6 +22,7 @@ http://tympanus.net/Development/TextInputEffects/index.html
 
 ####Menus
 http://tympanus.net/Development/FullscreenOverlayStyles/index.html
+
 http://tympanus.net/Development/PerspectivePageViewNavigation/index.html
 
 ####Selects
@@ -29,6 +30,7 @@ http://tympanus.net/Development/SelectInspiration/index.html
 
 ####Sliders
 http://tympanus.net/Development/MockupSlideshow/index4.html
+
 http://tympanus.net/Development/MorphingDevices/#
 
 ####Thumbnails
