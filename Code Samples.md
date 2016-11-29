@@ -1,36 +1,34 @@
-###Efeitos input
+##Animações
 
-http://tympanus.net/Development/TextInputEffects/index.html
-
-### Slider Agência
-
-http://tympanus.net/Development/MockupSlideshow/index4.html
-
-###Animações para header
-
+####Banner
 http://tympanus.net/Development/AnimatedHeaderBackgrounds/index2.html
 
-###Thumbnail Hover
-
-http://tympanus.net/Development/HoverEffectIdeas/index.html
-
-###Animações Bordas
-
+####Bordas
 http://tympanus.net/Tutorials/BorderAnimationSVG/
 
-###Selects
+####Grid
+http://tympanus.net/Development/GridLoadingEffects/index.html
 
-http://tympanus.net/Development/SelectInspiration/index.html
+####Links
+http://tympanus.net/Development/CreativeLinkEffects/
 
-###Animações Load
-
+####Pageload
 http://tympanus.net/Development/PageLoadingEffects/index.html
 
-###Menu fullscreen
+###Elementos
 
+####Input
+http://tympanus.net/Development/TextInputEffects/index.html
+
+####Menus
 http://tympanus.net/Development/FullscreenOverlayStyles/index.html
 http://tympanus.net/Development/PerspectivePageViewNavigation/index.html
 
-###Animações Links
+####Selects
+http://tympanus.net/Development/SelectInspiration/index.html
 
-http://tympanus.net/Development/CreativeLinkEffects/
+####Sliders
+http://tympanus.net/Development/MockupSlideshow/index4.html
+
+####Thumbnails
+http://tympanus.net/Development/HoverEffectIdeas/index.html
