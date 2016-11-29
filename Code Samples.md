@@ -30,3 +30,7 @@ http://tympanus.net/Development/PageLoadingEffects/index.html
 
 http://tympanus.net/Development/FullscreenOverlayStyles/index.html
 http://tympanus.net/Development/PerspectivePageViewNavigation/index.html
+
+###Animações Links
+
+http://tympanus.net/Development/CreativeLinkEffects/
