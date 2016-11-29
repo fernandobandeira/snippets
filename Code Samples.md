@@ -29,6 +29,7 @@ http://tympanus.net/Development/SelectInspiration/index.html
 
 ####Sliders
 http://tympanus.net/Development/MockupSlideshow/index4.html
+http://tympanus.net/Development/MorphingDevices/#
 
 ####Thumbnails
 http://tympanus.net/Development/HoverEffectIdeas/index.html
