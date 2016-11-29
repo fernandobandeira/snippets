@@ -21,3 +21,11 @@ http://tympanus.net/Tutorials/BorderAnimationSVG/
 ###Selects
 
 http://tympanus.net/Development/SelectInspiration/index.html
+
+###Animações Load
+
+http://tympanus.net/Development/PageLoadingEffects/index.html
+
+###Menu fullscreen
+
+http://tympanus.net/Development/FullscreenOverlayStyles/index.html
