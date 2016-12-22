@@ -9,9 +9,6 @@ http://tympanus.net/Tutorials/BorderAnimationSVG/
 ####Grid
 http://tympanus.net/Development/GridLoadingEffects/index.html
 
-####Links
-http://tympanus.net/Development/CreativeLinkEffects/
-
 ####Pageload
 http://tympanus.net/Development/PageLoadingEffects/index.html
 
@@ -19,6 +16,10 @@ http://tympanus.net/Development/PageLoadingEffects/index.html
 
 ####Buttons
 http://ianlunn.github.io/Hover/
+https://tympanus.net/Development/CreativeButtons/
+
+####Links
+http://tympanus.net/Development/CreativeLinkEffects/
 
 ####Input
 http://tympanus.net/Development/TextInputEffects/index.html
