@@ -16,6 +16,7 @@ http://tympanus.net/Development/PageLoadingEffects/index.html
 
 ####Buttons
 http://ianlunn.github.io/Hover/
+
 https://tympanus.net/Development/CreativeButtons/
 
 ####Links
@@ -39,4 +40,5 @@ http://tympanus.net/Development/MorphingDevices/#
 
 ####Thumbnails
 http://tympanus.net/Development/HoverEffectIdeas/index.html
+
 http://codepen.io/noeldelgado/pen/pGwFx
