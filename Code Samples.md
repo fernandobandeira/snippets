@@ -9,6 +9,10 @@ http://tympanus.net/Tutorials/BorderAnimationSVG/
 ####Grid
 http://tympanus.net/Development/GridLoadingEffects/index.html
 
+####Shake
+
+http://codepen.io/elrumordelaluz/pen/pHKcC
+
 ####Pageload
 http://tympanus.net/Development/PageLoadingEffects/index.html
 
