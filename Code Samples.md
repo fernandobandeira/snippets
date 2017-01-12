@@ -32,6 +32,9 @@ http://codepen.io/hakimel/pen/ZYRgwB
 ####Links
 http://tympanus.net/Development/CreativeLinkEffects/
 
+####Icones
+http://xtoolkit.github.io/Micon/icons/
+
 ####Input
 http://tympanus.net/Development/TextInputEffects/index.html
 
