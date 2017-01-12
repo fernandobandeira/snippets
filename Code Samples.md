@@ -19,6 +19,10 @@ http://ianlunn.github.io/Hover/
 
 https://tympanus.net/Development/CreativeButtons/
 
+####Confirm
+
+http://codepen.io/hakimel/pen/ZYRgwB
+
 ####Links
 http://tympanus.net/Development/CreativeLinkEffects/
 
