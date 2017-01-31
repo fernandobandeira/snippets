@@ -60,3 +60,8 @@ http://codepen.io/lbebber/pen/ypgql
 http://tympanus.net/Development/HoverEffectIdeas/index.html
 
 http://codepen.io/noeldelgado/pen/pGwFx
+
+###Bibliotecas
+
+####Alertas
+http://t4t5.github.io/sweetalert/
