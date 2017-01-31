@@ -1,19 +1,12 @@
 ##Animações
 
-####Banner
-http://tympanus.net/Development/AnimatedHeaderBackgrounds/index2.html
-
-####Bordas
-http://tympanus.net/Tutorials/BorderAnimationSVG/
-
-####Grid
-http://tympanus.net/Development/GridLoadingEffects/index.html
-
-####Pageload
-http://tympanus.net/Development/PageLoadingEffects/index.html
-
-####Shake
-http://codepen.io/elrumordelaluz/pen/pHKcC
+|Nome|Descrição|
+|---|---|---|---|---|
+|[Animated Header Backgrounds](http://tympanus.net/Development/AnimatedHeaderBackgrounds/index2.html)|Animações Background para Cabeçalhos|
+|[Border Animation SVG](http://tympanus.net/Tutorials/BorderAnimationSVG/)|Animações para bordas de elementos|
+|[Grid Loading Effects](http://tympanus.net/Development/GridLoadingEffects/index.html)|Efeitos de load para grid|
+|[Page Loading Effects](http://tympanus.net/Development/PageLoadingEffects/index.html)|Efeitos de load para páginas|
+|[Shake](http://codepen.io/elrumordelaluz/pen/pHKcC)|Efeitos de shake para textos e elementos|
 
 ####Tilt
 http://gijsroge.github.io/tilt.js/
