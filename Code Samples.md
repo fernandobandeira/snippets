@@ -7,9 +7,7 @@
 |[Grid Loading Effects](http://tympanus.net/Development/GridLoadingEffects/index.html)|Efeitos de load para grid|
 |[Page Loading Effects](http://tympanus.net/Development/PageLoadingEffects/index.html)|Efeitos de load para páginas|
 |[Shake](http://codepen.io/elrumordelaluz/pen/pHKcC)|Efeitos de shake para textos e elementos|
-
-####Tilt
-http://gijsroge.github.io/tilt.js/
+|[Tilt](http://gijsroge.github.io/tilt.js/)|Efeito de tilt|
 
 ###Elementos
 
