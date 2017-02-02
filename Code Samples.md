@@ -28,3 +28,4 @@
 |[Morphing Devices](http://tympanus.net/Development/MorphingDevices/#)|Slider que vai se transformando para exibir sites em varias resoluções|
 |[Hover Effect Ideas](http://tympanus.net/Development/HoverEffectIdeas/index.html)|Coleção de efeitos hover para thumbnails|
 |[3D Gallery](http://codepen.io/noeldelgado/pen/pGwFx)|Galeria thumb que se anima baseada na direção do mouse|
+|[Item Revealer](https://tympanus.net/Development/ItemRevealer/index3.html)|Animações para revelar itens|
