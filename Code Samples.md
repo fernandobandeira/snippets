@@ -29,3 +29,4 @@
 |[Hover Effect Ideas](http://tympanus.net/Development/HoverEffectIdeas/index.html)|Coleção de efeitos hover para thumbnails|
 |[3D Gallery](http://codepen.io/noeldelgado/pen/pGwFx)|Galeria thumb que se anima baseada na direção do mouse|
 |[Item Revealer](https://tympanus.net/Development/ItemRevealer/index3.html)|Animações para revelar itens|
+|[3D Hover Effects](https://tympanus.net/Tutorials/3DHoverEffects/index.html)|Efeitos hover 3D para thumbnails|
