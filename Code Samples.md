@@ -31,3 +31,5 @@
 |[3D Gallery](http://codepen.io/noeldelgado/pen/pGwFx)|Galeria thumb que se anima baseada na direção do mouse|
 |[Item Revealer](https://tympanus.net/Development/ItemRevealer/index3.html)|Animações para revelar itens|
 |[3D Hover Effects](https://tympanus.net/Tutorials/3DHoverEffects/index.html)|Efeitos hover 3D para thumbnails|
+|[Efeitos Blue](https://codepen.io/MoorLex/pen/qRKXrX)|Efeitos blur para divs|
+|[Checkout Buttons](https://codepen.io/george_devcode/pen/LxmgVM)|Botões com um efeito background, passa de um para outro|
