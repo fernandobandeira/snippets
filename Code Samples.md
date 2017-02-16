@@ -35,4 +35,4 @@
 |[Efeitos Blur](https://codepen.io/MoorLex/pen/qRKXrX)|Efeitos blur para divs|
 |[Checkout Buttons](https://codepen.io/george_devcode/pen/LxmgVM)|Botões com um efeito background, passa de um para outro|
 |[Botão Bordas Entrelaçadas](https://codepen.io/asstor_/pen/ggKrpY)|Botão com bordas entrelaçadas e um efeito legal de hover|
-|[Menu Hamburger]|(https://codepen.io/lmgonzalves/pen/KaWaJO?editors=1100)|Um menu hamburger legla para usar no responsivo|
+|[Menu Hamburger](https://codepen.io/lmgonzalves/pen/KaWaJO?editors=1100)|Um menu hamburger legla para usar no responsivo|
