@@ -1,4 +1,4 @@
-##Animações
+## Animações
 
 |Nome|Descrição|
 |---|---|
@@ -12,7 +12,8 @@
 |[Div Scroll](https://codepen.io/jlnljn/full/bgjbmB/)|Efeito montar div no scroll|
 |[Fundo Balões](https://codepen.io/nathantaylor/full/dNKvaj/)|Animação com balões no fundo|
 
-###Elementos
+## Elementos
+
 |Nome|Descrição|
 |---|---|
 |[Hover](http://ianlunn.github.io/Hover/)|Efeitos Hover para botões|
