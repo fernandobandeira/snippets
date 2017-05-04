@@ -38,3 +38,4 @@
 |[Botão Bordas Entrelaçadas](https://codepen.io/asstor_/pen/ggKrpY)|Botão com bordas entrelaçadas e um efeito legal de hover|
 |[Menu Hamburger](https://codepen.io/lmgonzalves/pen/KaWaJO?editors=1100)|Um menu hamburger legal para usar no responsivo|
 |[Catalogo interativo](http://www.turnjs.com)|Um display de pdf interativo|
+|[Scrollbar Customizada](https://codepen.io/akinjide/pen/BpggrZ)|Scroll bar customizada|
