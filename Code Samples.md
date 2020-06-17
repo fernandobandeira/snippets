@@ -41,3 +41,5 @@
 |[Menu Hamburger](https://codepen.io/lmgonzalves/pen/KaWaJO?editors=1100)|Um menu hamburger legal para usar no responsivo|
 |[Catalogo interativo](http://www.turnjs.com)|Um display de pdf interativo|
 |[Scrollbar Customizada](https://codepen.io/akinjide/pen/BpggrZ)|Scroll bar customizada|
+|[Botao container 3D](https://codepen.io/bennettfeely/full/ErFGv)|Botao que ao dar hover revela outro conteudo, muito bom para share de redes sociais|
+|[Radio selector animado](http://cssdeck.com/labs/ufct35ys5t)|Elemento animado para radio selectors|
