@@ -13,6 +13,7 @@
 |[Fundo Balões](https://codepen.io/nathantaylor/full/dNKvaj/)|Animação com balões no fundo|
 |[Hero Curvado](https://codepen.io/Hornebom/pen/RNKMrL)|Animação no scroll do hero|
 |[Animated Map Marker](https://codepen.io/avstorm/full/ClguF)|Marcador para o google maps animado|
+|[Animação texto Hero](https://codepen.io/Sonick/full/HthaI)|Animacao com blur para um texto de Hero|
 
 ## Elementos
 
