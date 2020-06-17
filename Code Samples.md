@@ -14,6 +14,7 @@
 |[Hero Curvado](https://codepen.io/Hornebom/pen/RNKMrL)|Animação no scroll do hero|
 |[Animated Map Marker](https://codepen.io/avstorm/full/ClguF)|Marcador para o google maps animado|
 |[Animação texto Hero](https://codepen.io/Sonick/full/HthaI)|Animacao com blur para um texto de Hero|
+|[Caption Hover Effects](https://tympanus.net/Tutorials/CaptionHoverEffects/index3.html)|Animacoes para descricoes de items|
 
 ## Elementos
 
