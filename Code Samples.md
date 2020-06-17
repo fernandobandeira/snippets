@@ -11,6 +11,7 @@
 |[Glitch](http://codepen.io/lbebber/pen/ypgql)|Efeito de glitch para textos|
 |[Div Scroll](https://codepen.io/jlnljn/full/bgjbmB/)|Efeito montar div no scroll|
 |[Fundo Balões](https://codepen.io/nathantaylor/full/dNKvaj/)|Animação com balões no fundo|
+|[Hero Curvado](https://codepen.io/Hornebom/pen/RNKMrL)|Animação no scroll do hero|
 
 ## Elementos
 
