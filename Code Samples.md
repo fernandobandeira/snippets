@@ -12,6 +12,7 @@
 |[Div Scroll](https://codepen.io/jlnljn/full/bgjbmB/)|Efeito montar div no scroll|
 |[Fundo Balões](https://codepen.io/nathantaylor/full/dNKvaj/)|Animação com balões no fundo|
 |[Hero Curvado](https://codepen.io/Hornebom/pen/RNKMrL)|Animação no scroll do hero|
+|[Animated Map Marker](https://codepen.io/avstorm/full/ClguF)|Marcador para o google maps animado|
 
 ## Elementos
 
